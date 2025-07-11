@@ -59,7 +59,7 @@ const moscodeDev = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&stroke=0D1117&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoscodeDev&theme=react&hide_border=true&stroke=0D1117&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Featured Projects
