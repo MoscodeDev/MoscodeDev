@@ -58,11 +58,6 @@ const moscodeDev = {
 
 ## 📊 GitHub Stats
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Most Used Languages" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&stroke=0D1117&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 </div>
