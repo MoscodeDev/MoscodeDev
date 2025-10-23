@@ -13,7 +13,7 @@ const moscodeDev = {
   name: "MosCode Dev",
   role: "MERN Stack Developer",
   location: "🌍 Remote",
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
   technologies: {
     frontEnd: {
       js: ["React", "Redux", "Next.js"],
